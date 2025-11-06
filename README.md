@@ -8,3 +8,7 @@ dataset_handling.ipynb is the jupyter notebook used for :
   - making the data augmentation,
   - printing the results figure
 
+programme.ipynb is the jupyter notebook used for:
+  -cnn
+  -slicing window
+  -computation of the metrics
